@@ -1,0 +1,36 @@
+/ - root of thr file system
+/home - user folders like C
+/bin - Essential commands binaries
+/etc - system config files
+/var - Varilable files(Logs)
+/tmp - temp files
+/usr - user programs and lib
+/root - Home directoryof the root
+/dev - Device files(USB, Harddisk)
+/proc - System and process info(Virtual folder)
+
+
+Basic Linux Commands
+   commands 			use
+1 pwd		Show current directory
+2 ls		List files
+3 cd		change directory
+4 mkdir 	Make a directory
+5 touch		Create an empty file
+6 cp 		copy files/folders
+7 mv		Move or rename files
+8 rm 		Delete files
+9 cat 		Show files content
+10 clear	Clear the terminal
+11 exit 	Close the terminal or shell
+#comments to erite the file information
+
+
+set -x debug mode
+
+ps -ef 
+
+grep
+
+| - pipe
+
