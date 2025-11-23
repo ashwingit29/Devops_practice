@@ -14,3 +14,4 @@ rm prac2
 
 echo "Directory created, files created, and prac2 deleted successfully."
 
+ecoho "Test"
